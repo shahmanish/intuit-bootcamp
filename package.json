@@ -1,0 +1,25 @@
+{
+  "name": "intuit",
+  "version": "1.0.0",
+  "description": "web development class project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahmanish/intuit-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahmanish/intuit-bootcamp/issues"
+  },
+  "homepage": "https://github.com/shahmanish/intuit-bootcamp",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
